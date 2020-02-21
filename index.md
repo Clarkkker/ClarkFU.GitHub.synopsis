@@ -8,7 +8,7 @@
       <p><b>地址：河北邯郸魏县邮编7758258</b></p>
     </td>
     <td width="25%">
-      <img src=".照片jpg" width="100%">      % 照片.jpg.jpg
+      <img src=".照片jpg.jpg" width="100%">      % 照片.jpg.jpg
     </td>
   </tr>
 </table>
