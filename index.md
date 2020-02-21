@@ -3,12 +3,12 @@
     <td width="75%">
       <h1>付凯磊</h1>
       <p><b>本科生</b></p>
-      <p><b>浙江万里学院学院</b></p>
+      <p><b>浙江万里学院</b></p>
       <p><b>邮箱：1234567789@qq.com</b></p>
       <p><b>地址：河北邯郸魏县</b></p>
     </td>
     <td width="25%">
-      <img src="zhaopain.jpg" width="100%">       
+      <img src="zhaopain.jpg" width="100%">  %     
     </td>
   </tr>
 </table>
