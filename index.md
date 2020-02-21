@@ -8,7 +8,7 @@
       <p><b>地址：河北邯郸魏县邮编7758258</b></p>
     </td>
     <td width="25%">
-      <img src=".zhaopain.jpg" width="100%">      % zhaopian.jpg
+      <img src="zhaopain.jpg" width="100%">      % 
     </td>
   </tr>
 </table>
