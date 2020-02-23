@@ -8,7 +8,7 @@
       <p><b>地址：河北邯郸魏县</b></p>
     </td>
     <td width="25%">
-      <img src="zhaopian.jpg" width="100%">       
+      <img src="boby.jpg" width="100%">       
     </td>
   </tr>
 </table>
@@ -23,4 +23,4 @@
     
     荣誉奖励
     
-    -2015年上海市跆拳道邀请赛42KG冠军
+    -2015年上海市跆拳道邀请赛冠军
